@@ -1,3 +1,5 @@
+
+
 # Awesome-LLM-RAG
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![Stars](https://img.shields.io/github/stars/yangchou19/Awesome-LLM-Rag)](https://github.com/yangchou19/Awesome-LLM-Rag/stargazers)
@@ -36,7 +38,7 @@ This repository is actively maintained and welcomes contributions from the commu
 |Query Rewriting for Retrieval-Augmented Large Language Models|[[pdf]](http://arxiv.org/pdf/2305.14283v3)|2023.05|⚠️|⭐️|
 |Modular RAG: Transforming RAG Systems into LEGO-like Reconfigurable Frameworks|[[pdf]](http://arxiv.org/pdf/2407.21059v1)|2024.07|⚠️|⭐️|
 |RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation|[[pdf]](http://arxiv.org/pdf/2408.02545v1)|2024.08|[[RAGFoundry]](https://github.com/IntelLabs/RAGFoundry) ![](https://img.shields.io/github/stars/IntelLabs/RAGFoundry.svg?style=social)|⭐️|
-|A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data|[[pdf]](http://arxiv.org/pdf/2412.05838v1)|2024.12|��️|⭐️|
+|A Collaborative Multi-Agent Approach to Retrieval-Augmented Generation Across Diverse Data|[[pdf]](http://arxiv.org/pdf/2412.05838v1)|2024.12|⚠️|⭐️|
 |🔥Generate rather than Retrieve: Large Language Models are Strong Context Generators|[[pdf]](http://arxiv.org/pdf/2209.10063v3)|2022.09|[[GenRead]](https://github.com/wyu97/GenRead) ![](https://img.shields.io/github/stars/wyu97/GenRead.svg?style=social)|⭐️⭐️|
 
 ### 📖 Retrieval
@@ -46,7 +48,7 @@ This repository is actively maintained and welcomes contributions from the commu
 |KnowledGPT: Enhancing Large Language Models with Retrieval and Storage Access on Knowledge Bases|[[pdf]](http://arxiv.org/pdf/2308.11761v1)|2023.08|⚠️|⭐️|
 |Knowledge Graph Prompting for Multi-Document Question Answering|[[pdf]](http://arxiv.org/pdf/2308.11730v3)|2023.08|[[KG-LLM-MDQA]](https://github.com/YuWVandy/KG-LLM-MDQA) ![](https://img.shields.io/github/stars/YuWVandy/KG-LLM-MDQA.svg?style=social)|⭐️|
 |G-Retriever: Retrieval-Augmented Generation for Textual Graph Understanding and Question Answering|[[pdf]](http://arxiv.org/pdf/2402.07630v3)|2024.02|[[G-Retriever]](https://github.com/XiaoxinHe/G-Retriever) ![](https://img.shields.io/github/stars/XiaoxinHe/G-Retriever.svg?style=social)|⭐️|
-|Chain-of-Verification Reduces Hallucination in Large Language Models|[[pdf]](http://arxiv.org/pdf/2309.11495v2)|2023.09|�����|⭐️|
+|Chain-of-Verification Reduces Hallucination in Large Language Models|[[pdf]](http://arxiv.org/pdf/2309.11495v2)|2023.09|⚠️|⭐️|
 |🔥Prompt-RAG: Pioneering Vector Embedding-Free Retrieval-Augmented Generation in Niche Domains, Exemplified by Korean Medicine|[[pdf]](http://arxiv.org/pdf/2401.11246v1)|2024.01|⚠️|⭐️⭐️|
 |Multi-Meta-RAG: Improving RAG for Multi-Hop Queries using Database Filtering with LLM-Extracted Metadata|[[pdf]](http://arxiv.org/pdf/2406.13213v2)|2024.06|[[Multi-Meta-RAG]](https://github.com/mxpoliakov/Multi-Meta-RAG) ![](https://img.shields.io/github/stars/mxpoliakov/Multi-Meta-RAG.svg?style=social)|⭐️|
 
@@ -58,7 +60,7 @@ This repository is actively maintained and welcomes contributions from the commu
 |LongLLMLingua: Accelerating and Enhancing LLMs in Long Context Scenarios via Prompt Compression|[[pdf]](http://arxiv.org/pdf/2310.06839v2)|2023.10|⚠️|⭐️|
 |Large Language Model Is Not a Good Few-shot Information Extractor, but a Good Reranker for Hard Samples!|[[pdf]](http://arxiv.org/pdf/2303.08559v2)|2023.03|⚠️|⭐️|
 
-### 📖 Augamentation
+### 📖 Augmentation
 |Title|Paper|Date|Code|Recom|
 |:---:|:---:|:---:|:---:|:---:|
 |Interleaving Retrieval with Chain-of-Thought Reasoning for Knowledge-Intensive Multi-Step Questions|[[pdf]](http://arxiv.org/pdf/2212.10509v2)|2022.12|[[ircot]](https://github.com/stonybrooknlp/ircot) ![](https://img.shields.io/github/stars/stonybrooknlp/ircot.svg?style=social)|⭐️|
