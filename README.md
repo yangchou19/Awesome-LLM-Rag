@@ -121,6 +121,7 @@ This repository is actively maintained and welcomes contributions from the commu
 |[txtai](https://github.com/neuml/txtai)|All-in-one embeddings database|• Lightweight<br>• Simple API<br>• Built-in workflows|• Less enterprise features<br>• Smaller community|![](https://img.shields.io/github/stars/neuml/txtai.svg?style=social)|
 |[Semantic Kernel](https://github.com/microsoft/semantic-kernel)|Microsoft's orchestration SDK|• Strong Microsoft integration<br>• Memory management<br>• Enterprise support|• Microsoft ecosystem focused<br>• Less community plugins|![](https://img.shields.io/github/stars/microsoft/semantic-kernel.svg?style=social)|
 |[Embedchain](https://github.com/embedchain/embedchain)|RAG framework|• Easy to use<br>• Data source adaptors<br>• Quick prototyping|• Less production features<br>• Limited customization|![](https://img.shields.io/github/stars/embedchain/embedchain.svg?style=social)|
+|[Kiln](https://github.com/Kiln-AI/Kiln)|Drag-and-drop app for production-ready RAG systems|• Build full RAG pipelines in minutes<br>• Built-in evals, agents, tool-calling<br>• Synthetic data + fine-tuning support<br>|![](https://img.shields.io/github/stars/Kiln-AI/Kiln.svg?style=social)|
 |[Ragatouille](https://github.com/bclavie/ragatouille)|RAG experimentation toolkit|• Research focused<br>• Advanced RAG features<br>• Flexible architecture|• Early stage<br>• Less documentation|![](https://img.shields.io/github/stars/bclavie/ragatouille.svg?style=social)|
 
 
